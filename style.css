@@ -1,0 +1,213 @@
+#header2{
+    height: 4%;
+    text-align: left;
+    color: #00461e;
+    font-size: 20px;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	padding-left: 1%;
+    padding-right: 1%;
+    width: auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+
+#np_page {
+    width: 50%;
+    margin-left: 1%;
+    margin-top: 4%;
+    height: 70%;
+    float: left;
+    text-align: left;
+    border-style: solid;
+    border-bottom-width: 2px;
+    border-color: #00461e;
+    background-color: white;
+    color: #00461e;
+    font-weight: bold;
+    font-size: 125%;
+    line-height: 300%;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+#html, #body {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding:0;
+    width:100%;
+    height:100%;
+}
+
+#container {
+    width:100%;
+}
+#header{
+    height: 10%;
+    background-color: #00461e;
+    text-align: left;
+    color: white;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+    font-size: 8vw;
+    width: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+}
+.bigger{
+    font-size: 125%;
+    
+}
+.darktext{
+    color: black;
+    font-size: 75%;
+}
+#filler{
+    width: 200px;
+}
+#h2{
+    height: 100px;
+    background-color: #00461e;
+    color: white;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	padding-left: 15px;
+    padding-bottom: 15px;
+}
+#text_input{
+    font-size: 110%;
+    color: #00461e;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+#event {
+    border-style: solid;
+    border-bottom-width: 2px;
+    border-color: #00461e;
+    background-color: white;
+    color: #00461e;
+    font-weight: bold;
+    font-size: 125%;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    height: 15%;
+    width: 100%;
+    text-align: center;
+}
+#event2 {
+  border-style: solid;
+  border-bottom-width: 2px;
+  border-color: #00461e;
+  background-color: white;
+  color: #00461e;
+  font-weight: bold;
+  font-size: 150%;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  padding-left: 10px;
+  padding-right: 10px;
+  width:45%;
+  float:right;
+  padding-top: 10px;
+  height: 45%;
+  text-align: center;
+}
+
+
+
+#event_center {
+    background-color: white;
+    color: #00461e;
+    font-weight: bold;
+    font-size: 150%;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    padding-top: 10px;
+    height: 120%;
+    text-align: center;
+    position: fixed;
+    top: 8%;
+    left: 0;
+    width: 100%;
+    overflow: scroll;
+}
+
+#button {
+  color: #00461e;
+  font-weight: bold;
+  font-size: 150%;
+  text-transform: uppercase;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+#smallertext {
+    color: white;
+    height: 50px;
+    text-align: right;
+    background-color: #730099;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+#createleft {
+  background-color: #CCCBCD;
+  color: #00461e;
+  font-weight: bold;
+  font-size: 150%;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  padding-left: 10px;
+  padding-right: 10px;
+  width:30%;
+  float:right;
+  padding-top: 10px;
+  height: 500px;
+  margin-right: 50px;
+  margin-left: 50px;
+  text-align: center;
+}
+#createright {
+  background-color: #CCCBCD;
+  color: #00461e;
+  font-weight: bold;
+  font-size: 150%;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  padding-left: 10px;
+  padding-right: 10px;
+  width:30%;
+  float:left;
+  padding-top: 10px;
+  height: 500px;
+  margin-right: 50px;
+  margin-left: 50px;
+  text-align: center;
+}
+#createcenter {
+    color: #65FF7B;
+    font-weight: bold;
+    font-size: 150%;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    padding-left: 1%;
+    padding-right: 1%;
+    height: 120%;
+    text-align: center;
+    position: fixed;
+    top: 10.5%;
+    left: 0;
+    overflow: scroll;
+    width: 100%;
+}
+#mobile_button, mobile_button.submit {
+    background-color: #65FF7B;
+    height:5%;
+    width:20%;
+    color: white;
+    text-align: center;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+}
+#view {
+    height: auto;
+    width: 100%;
+    background-color: #f8f8ff;
+}
