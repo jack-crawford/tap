@@ -1,0 +1,529 @@
+2016-09-27 17:00:15: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-27 17:00:51: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-27 17:00:56: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-27 17:01:49: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-27 17:02:10: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-27 17:02:10: post query
+2016-09-27 17:02:38: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-27 17:02:38: post query
+2016-09-27 17:02:38: fetched array?
+2016-09-27 17:02:56: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-27 17:02:56: post query
+2016-09-27 17:02:56: fetched array?
+2016-09-27 17:02:56: fname should be Jack
+2016-09-27 17:02:59: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-27 17:02:59: post query
+2016-09-27 17:02:59: fetched array?
+2016-09-27 17:02:59: fname should be Jack
+2016-09-27 17:03:09: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-27 17:03:09: post query
+2016-09-27 17:03:09: fetched array?
+2016-09-27 17:03:09: fname should be Jack
+2016-09-27 17:03:35: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 17:03:35: post query
+2016-09-27 17:03:35: fetched array?
+2016-09-27 17:03:35: fname should be Jack
+2016-09-27 17:04:14: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 17:04:14: post query
+2016-09-27 17:04:14: fetched array?
+2016-09-27 17:04:14: fname should be Jack
+2016-09-27 17:06:57: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 17:06:57: post query
+2016-09-27 17:06:57: fetched array?
+2016-09-27 17:06:57: fname should be Jack
+2016-09-27 17:17:52: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 17:17:52: post query
+2016-09-27 17:17:52: fetched array?
+2016-09-27 17:17:52: fname should be Jack
+2016-09-27 17:21:35: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 17:21:35: post query
+2016-09-27 17:21:35: fetched array?
+2016-09-27 17:21:35: fname should be Jack
+2016-09-27 19:17:20: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 19:17:20: post query
+2016-09-27 19:17:20: fetched array?
+2016-09-27 19:17:20: fname should be Jack
+2016-09-27 19:20:04: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 19:20:04: post query
+2016-09-27 19:20:04: fetched array?
+2016-09-27 19:20:04: fname should be Jack
+2016-09-27 19:22:58: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 19:22:58: post query
+2016-09-27 19:22:58: fetched array?
+2016-09-27 19:22:58: fname should be Jack
+2016-09-27 19:24:56: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 19:24:56: post query
+2016-09-27 19:24:56: fetched array?
+2016-09-27 19:24:56: fname should be Jack
+2016-09-27 19:26:06: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 19:26:06: post query
+2016-09-27 19:26:06: fetched array?
+2016-09-27 19:26:06: fname should be Jack
+2016-09-27 19:32:38: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 19:32:38: post query
+2016-09-27 19:32:38: fetched array?
+2016-09-27 19:32:38: fname should be Jack
+2016-09-27 19:34:29: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 19:34:29: post query
+2016-09-27 19:34:29: fetched array?
+2016-09-27 19:34:29: fname should be Jack
+2016-09-27 19:49:35: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 19:49:35: post query
+2016-09-27 19:49:35: fetched array?
+2016-09-27 19:49:35: fname should be Jack
+2016-09-27 19:53:41: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 19:53:41: post query
+2016-09-27 19:53:41: fetched array?
+2016-09-27 19:53:41: fname should be Jack
+2016-09-27 19:54:52: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 19:54:52: post query
+2016-09-27 19:54:52: fetched array?
+2016-09-27 19:54:52: fname should be Jack
+2016-09-27 19:54:56: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 19:54:56: post query
+2016-09-27 19:54:56: fetched array?
+2016-09-27 19:54:56: fname should be Jack
+2016-09-27 20:05:12: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 20:05:12: post query
+2016-09-27 20:05:12: fetched array?
+2016-09-27 20:05:12: fname should be Jack
+2016-09-27 20:39:00: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 20:39:00: post query
+2016-09-27 20:39:00: fetched array?
+2016-09-27 20:39:00: fname should be Jack
+2016-09-27 20:39:04: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 20:39:04: post query
+2016-09-27 20:39:04: fetched array?
+2016-09-27 20:39:04: fname should be Jack
+2016-09-27 20:39:51: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 20:39:51: post query
+2016-09-27 20:39:51: fetched array?
+2016-09-27 20:39:51: fname should be Jack
+2016-09-27 20:40:18: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 20:40:18: post query
+2016-09-27 20:40:18: fetched array?
+2016-09-27 20:40:18: fname should be Jack
+2016-09-27 20:40:18: USER LNAME QUERY: SELECT lname FROM users WHERE email = 'Jackmail';
+2016-09-27 20:40:18: post query
+2016-09-27 20:40:18: fetched array?
+2016-09-27 20:40:18: lname should be 
+2016-09-27 20:40:18: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'Jackmail';
+2016-09-27 20:40:18: post query
+2016-09-27 20:40:18: fetched array?
+2016-09-27 20:40:18: fname should be 1
+2016-09-27 20:40:18: USER FNAME QUERY: SELECT COUNT[*] FROM taps WHERE sender_id = '1';
+2016-09-27 20:40:18: post query
+2016-09-27 20:40:18: fetched array?
+2016-09-27 20:40:18: fname should be 
+2016-09-27 20:40:18: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'Jackmail';
+2016-09-27 20:40:18: post query
+2016-09-27 20:40:18: fetched array?
+2016-09-27 20:40:18: fname should be 1
+2016-09-27 20:40:18: USER FNAME QUERY: SELECT COUNT[*] FROM connections WHERE '1' IN (user1_id, user2_id) AND active = 'y';
+2016-09-27 20:40:18: post query
+2016-09-27 20:40:18: fetched array?
+2016-09-27 20:40:18: fname should be 
+2016-09-27 20:40:18: Code QUERY: SELECT code FROM users WHERE email = 'Jackmail';
+2016-09-27 20:40:18: post query
+2016-09-27 20:40:18: fetched array?
+2016-09-27 20:40:18: code should be JACK
+2016-09-27 20:41:15: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 20:41:15: post query
+2016-09-27 20:41:15: fetched array?
+2016-09-27 20:41:15: fname should be Jack
+2016-09-27 20:43:40: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 20:43:40: post query
+2016-09-27 20:43:40: fetched array?
+2016-09-27 20:43:40: fname should be Jack
+2016-09-27 20:44:43: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 20:44:43: post query
+2016-09-27 20:44:43: fetched array?
+2016-09-27 20:44:43: fname should be Jack
+2016-09-27 20:45:57: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 20:45:57: post query
+2016-09-27 20:45:57: fetched array?
+2016-09-27 20:45:57: fname should be Jack
+2016-09-27 20:46:09: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 20:46:09: post query
+2016-09-27 20:46:09: fetched array?
+2016-09-27 20:46:09: fname should be Jack
+2016-09-27 20:47:13: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 20:47:13: post query
+2016-09-27 20:47:13: fetched array?
+2016-09-27 20:47:13: fname should be Jack
+2016-09-27 20:47:54: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 20:47:54: post query
+2016-09-27 20:47:54: fetched array?
+2016-09-27 20:47:54: fname should be Jack
+2016-09-27 20:48:11: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 20:48:11: post query
+2016-09-27 20:48:11: fetched array?
+2016-09-27 20:48:11: fname should be Jack
+2016-09-27 20:48:28: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 20:48:28: post query
+2016-09-27 20:48:28: fetched array?
+2016-09-27 20:48:28: fname should be Jack
+2016-09-27 21:04:39: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 21:04:39: post query
+2016-09-27 21:04:39: fetched array?
+2016-09-27 21:04:39: fname should be Jack
+2016-09-27 21:05:11: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 21:05:11: post query
+2016-09-27 21:05:11: fetched array?
+2016-09-27 21:05:11: fname should be Jack
+2016-09-27 21:06:17: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 21:06:17: post query
+2016-09-27 21:06:17: fetched array?
+2016-09-27 21:06:17: fname should be Jack
+2016-09-27 21:06:35: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 21:06:35: post query
+2016-09-27 21:06:35: fetched array?
+2016-09-27 21:06:35: fname should be Jack
+2016-09-27 21:06:35: USER LNAME QUERY: SELECT lname FROM users WHERE email = 'Jackmail';
+2016-09-27 21:06:35: post query
+2016-09-27 21:06:35: fetched array?
+2016-09-27 21:06:35: lname should be 
+2016-09-27 21:06:35: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'Jackmail';
+2016-09-27 21:06:35: post query
+2016-09-27 21:06:35: fetched array?
+2016-09-27 21:06:35: fname should be 1
+2016-09-27 21:06:35: USER FNAME QUERY: SELECT COUNT[*] FROM taps WHERE sender_id = '1';
+2016-09-27 21:06:35: post query
+2016-09-27 21:06:35: fetched array?
+2016-09-27 21:06:35: fname should be 
+2016-09-27 21:06:35: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'Jackmail';
+2016-09-27 21:06:35: post query
+2016-09-27 21:06:35: fetched array?
+2016-09-27 21:06:35: fname should be 1
+2016-09-27 21:06:35: USER FNAME QUERY: SELECT COUNT[*] FROM connections WHERE '1' IN (user1_id, user2_id) AND active = 'y';
+2016-09-27 21:06:35: post query
+2016-09-27 21:06:35: fetched array?
+2016-09-27 21:06:35: fname should be 
+2016-09-27 21:06:35: Code QUERY: SELECT code FROM users WHERE email = 'Jackmail';
+2016-09-27 21:06:35: post query
+2016-09-27 21:06:35: fetched array?
+2016-09-27 21:06:35: code should be JACK
+2016-09-27 21:08:22: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 21:08:22: post query
+2016-09-27 21:08:22: fetched array?
+2016-09-27 21:08:22: fname should be Jack
+2016-09-27 21:11:36: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 21:11:36: post query
+2016-09-27 21:11:36: fetched array?
+2016-09-27 21:11:36: fname should be Jack
+2016-09-27 21:17:06: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 21:17:06: post query
+2016-09-27 21:17:06: fetched array?
+2016-09-27 21:17:06: fname should be Jack
+2016-09-27 21:17:51: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 21:17:51: post query
+2016-09-27 21:17:51: fetched array?
+2016-09-27 21:17:51: fname should be Jack
+2016-09-27 21:19:13: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 21:19:13: post query
+2016-09-27 21:19:13: fetched array?
+2016-09-27 21:19:13: fname should be Jack
+2016-09-27 21:22:34: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 21:22:34: post query
+2016-09-27 21:22:34: fetched array?
+2016-09-27 21:22:34: fname should be Jack
+2016-09-27 21:22:46: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-27 21:22:46: post query
+2016-09-27 21:22:46: fetched array?
+2016-09-27 21:22:46: fname should be Jack
+2016-09-27 21:22:46: USER LNAME QUERY: SELECT lname FROM users WHERE email = 'jackmail';
+2016-09-27 21:22:46: post query
+2016-09-27 21:22:46: fetched array?
+2016-09-27 21:22:46: lname should be 
+2016-09-27 21:22:46: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'jackmail';
+2016-09-27 21:22:46: post query
+2016-09-27 21:22:46: fetched array?
+2016-09-27 21:22:46: fname should be 1
+2016-09-27 21:22:46: USER FNAME QUERY: SELECT COUNT[*] FROM taps WHERE sender_id = '1';
+2016-09-27 21:22:46: post query
+2016-09-27 21:22:46: fetched array?
+2016-09-27 21:22:46: fname should be 
+2016-09-27 21:22:46: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'jackmail';
+2016-09-27 21:22:46: post query
+2016-09-27 21:22:46: fetched array?
+2016-09-27 21:22:46: fname should be 1
+2016-09-27 21:22:46: USER FNAME QUERY: SELECT COUNT[*] FROM connections WHERE '1' IN (user1_id, user2_id) AND active = 'y';
+2016-09-27 21:22:46: post query
+2016-09-27 21:22:46: fetched array?
+2016-09-27 21:22:46: fname should be 
+2016-09-27 21:22:46: Code QUERY: SELECT code FROM users WHERE email = 'jackmail';
+2016-09-27 21:22:46: post query
+2016-09-27 21:22:46: fetched array?
+2016-09-27 21:22:46: code should be JACK
+2016-09-27 21:27:22: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 21:27:22: post query
+2016-09-27 21:27:22: fetched array?
+2016-09-27 21:27:22: fname should be Jack
+2016-09-27 21:27:57: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 21:27:57: post query
+2016-09-27 21:27:57: fetched array?
+2016-09-27 21:27:57: fname should be Jack
+2016-09-27 21:27:57: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-27 21:27:57: post query
+2016-09-27 21:27:57: fetched array?
+2016-09-27 21:27:57: fname should be Jack
+2016-09-27 21:27:57: USER LNAME QUERY: SELECT lname FROM users WHERE email = 'jackmail';
+2016-09-27 21:27:57: post query
+2016-09-27 21:27:57: fetched array?
+2016-09-27 21:27:57: lname should be 
+2016-09-27 21:27:57: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'jackmail';
+2016-09-27 21:27:57: post query
+2016-09-27 21:27:57: fetched array?
+2016-09-27 21:27:57: fname should be 1
+2016-09-27 21:27:57: USER FNAME QUERY: SELECT COUNT[*] FROM taps WHERE sender_id = '1';
+2016-09-27 21:27:57: post query
+2016-09-27 21:27:57: fetched array?
+2016-09-27 21:27:57: fname should be 
+2016-09-27 21:27:57: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'jackmail';
+2016-09-27 21:27:57: post query
+2016-09-27 21:27:57: fetched array?
+2016-09-27 21:27:57: fname should be 1
+2016-09-27 21:27:57: USER FNAME QUERY: SELECT COUNT[*] FROM connections WHERE '1' IN (user1_id, user2_id) AND active = 'y';
+2016-09-27 21:27:57: post query
+2016-09-27 21:27:57: fetched array?
+2016-09-27 21:27:57: fname should be 
+2016-09-27 21:27:57: Code QUERY: SELECT code FROM users WHERE email = 'jackmail';
+2016-09-27 21:27:57: post query
+2016-09-27 21:27:57: fetched array?
+2016-09-27 21:27:57: code should be JACK
+2016-09-27 21:28:25: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 21:28:25: post query
+2016-09-27 21:28:25: fetched array?
+2016-09-27 21:28:25: fname should be Jack
+2016-09-27 21:28:26: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-27 21:28:26: post query
+2016-09-27 21:28:26: fetched array?
+2016-09-27 21:28:26: fname should be Jack
+2016-09-27 21:28:26: USER LNAME QUERY: SELECT lname FROM users WHERE email = 'jackmail';
+2016-09-27 21:28:26: post query
+2016-09-27 21:28:26: fetched array?
+2016-09-27 21:28:26: lname should be 
+2016-09-27 21:28:26: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'jackmail';
+2016-09-27 21:28:26: post query
+2016-09-27 21:28:26: fetched array?
+2016-09-27 21:28:26: fname should be 1
+2016-09-27 21:28:26: USER FNAME QUERY: SELECT COUNT[*] FROM taps WHERE sender_id = '1';
+2016-09-27 21:28:26: post query
+2016-09-27 21:28:26: fetched array?
+2016-09-27 21:28:26: fname should be 
+2016-09-27 21:28:26: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'jackmail';
+2016-09-27 21:28:26: post query
+2016-09-27 21:28:26: fetched array?
+2016-09-27 21:28:26: fname should be 1
+2016-09-27 21:28:26: USER FNAME QUERY: SELECT COUNT[*] FROM connections WHERE '1' IN (user1_id, user2_id) AND active = 'y';
+2016-09-27 21:28:26: post query
+2016-09-27 21:28:26: fetched array?
+2016-09-27 21:28:26: fname should be 
+2016-09-27 21:28:26: Code QUERY: SELECT code FROM users WHERE email = 'jackmail';
+2016-09-27 21:28:26: post query
+2016-09-27 21:28:26: fetched array?
+2016-09-27 21:28:26: code should be JACK
+2016-09-27 21:29:40: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 21:29:40: post query
+2016-09-27 21:29:40: fetched array?
+2016-09-27 21:29:40: fname should be Jack
+2016-09-27 21:29:41: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-27 21:29:41: post query
+2016-09-27 21:29:41: fetched array?
+2016-09-27 21:29:41: fname should be Jack
+2016-09-27 21:29:41: USER LNAME QUERY: SELECT lname FROM users WHERE email = 'jackmail';
+2016-09-27 21:29:41: post query
+2016-09-27 21:29:41: fetched array?
+2016-09-27 21:29:41: lname should be C
+2016-09-27 21:29:41: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'jackmail';
+2016-09-27 21:29:41: post query
+2016-09-27 21:29:41: fetched array?
+2016-09-27 21:29:41: fname should be 1
+2016-09-27 21:29:41: USER FNAME QUERY: SELECT COUNT[*] FROM taps WHERE sender_id = '1';
+2016-09-27 21:29:41: post query
+2016-09-27 21:29:41: fetched array?
+2016-09-27 21:29:41: fname should be 
+2016-09-27 21:29:41: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'jackmail';
+2016-09-27 21:29:41: post query
+2016-09-27 21:29:41: fetched array?
+2016-09-27 21:29:41: fname should be 1
+2016-09-27 21:29:41: USER FNAME QUERY: SELECT COUNT[*] FROM connections WHERE '1' IN (user1_id, user2_id) AND active = 'y';
+2016-09-27 21:29:41: post query
+2016-09-27 21:29:41: fetched array?
+2016-09-27 21:29:41: fname should be 
+2016-09-27 21:29:41: Code QUERY: SELECT code FROM users WHERE email = 'jackmail';
+2016-09-27 21:29:41: post query
+2016-09-27 21:29:41: fetched array?
+2016-09-27 21:29:41: code should be JACK
+2016-09-27 21:30:00: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-27 21:30:00: post query
+2016-09-27 21:30:00: fetched array?
+2016-09-27 21:30:00: fname should be Jack
+2016-09-27 21:30:00: USER LNAME QUERY: SELECT lname FROM users WHERE email = 'jackmail';
+2016-09-27 21:30:00: post query
+2016-09-27 21:30:00: fetched array?
+2016-09-27 21:30:00: lname should be C
+2016-09-27 21:30:00: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'jackmail';
+2016-09-27 21:30:00: post query
+2016-09-27 21:30:00: fetched array?
+2016-09-27 21:30:00: fname should be 1
+2016-09-27 21:30:00: USER FNAME QUERY: SELECT COUNT[*] FROM taps WHERE sender_id = '1';
+2016-09-27 21:30:00: post query
+2016-09-27 21:30:00: fetched array?
+2016-09-27 21:30:00: fname should be 
+2016-09-27 21:30:00: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'jackmail';
+2016-09-27 21:30:00: post query
+2016-09-27 21:30:00: fetched array?
+2016-09-27 21:30:00: fname should be 1
+2016-09-27 21:30:00: USER FNAME QUERY: SELECT COUNT[*] FROM connections WHERE '1' IN (user1_id, user2_id) AND active = 'y';
+2016-09-27 21:30:00: post query
+2016-09-27 21:30:00: fetched array?
+2016-09-27 21:30:00: fname should be 
+2016-09-27 21:30:00: Code QUERY: SELECT code FROM users WHERE email = 'jackmail';
+2016-09-27 21:30:00: post query
+2016-09-27 21:30:00: fetched array?
+2016-09-27 21:30:00: code should be JACK
+2016-09-27 21:30:22: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-27 21:30:22: post query
+2016-09-27 21:30:22: fetched array?
+2016-09-27 21:30:22: fname should be Jack
+2016-09-27 21:30:22: USER LNAME QUERY: SELECT lname FROM users WHERE email = 'jackmail';
+2016-09-27 21:30:22: post query
+2016-09-27 21:30:22: fetched array?
+2016-09-27 21:30:22: lname should be C
+2016-09-27 21:30:22: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'jackmail';
+2016-09-27 21:30:22: post query
+2016-09-27 21:30:22: fetched array?
+2016-09-27 21:30:22: fname should be 1
+2016-09-27 21:30:22: USER FNAME QUERY: SELECT COUNT[*] FROM taps WHERE sender_id = '1';
+2016-09-27 21:30:22: post query
+2016-09-27 21:30:22: fetched array?
+2016-09-27 21:30:22: fname should be 
+2016-09-27 21:30:22: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'jackmail';
+2016-09-27 21:30:22: post query
+2016-09-27 21:30:22: fetched array?
+2016-09-27 21:30:22: fname should be 1
+2016-09-27 21:30:22: USER FNAME QUERY: SELECT COUNT[*] FROM connections WHERE '1' IN (user1_id, user2_id) AND active = 'y';
+2016-09-27 21:30:22: post query
+2016-09-27 21:30:22: fetched array?
+2016-09-27 21:30:22: fname should be 
+2016-09-27 21:30:22: Code QUERY: SELECT code FROM users WHERE email = 'jackmail';
+2016-09-27 21:30:22: post query
+2016-09-27 21:30:22: fetched array?
+2016-09-27 21:30:22: code should be JACK
+2016-09-27 21:31:22: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-27 21:31:22: post query
+2016-09-27 21:31:22: fetched array?
+2016-09-27 21:31:22: fname should be Jack
+2016-09-27 21:31:22: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-27 21:31:22: post query
+2016-09-27 21:31:22: fetched array?
+2016-09-27 21:31:22: fname should be Jack
+2016-09-27 21:31:22: USER LNAME QUERY: SELECT lname FROM users WHERE email = 'jackmail';
+2016-09-27 21:31:22: post query
+2016-09-27 21:31:22: fetched array?
+2016-09-27 21:31:22: lname should be C
+2016-09-27 21:31:22: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'jackmail';
+2016-09-27 21:31:22: post query
+2016-09-27 21:31:22: fetched array?
+2016-09-27 21:31:22: fname should be 1
+2016-09-27 21:31:22: USER FNAME QUERY: SELECT COUNT[*] FROM taps WHERE sender_id = '1';
+2016-09-27 21:31:22: post query
+2016-09-27 21:31:22: fetched array?
+2016-09-27 21:31:22: fname should be 
+2016-09-27 21:31:22: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'jackmail';
+2016-09-27 21:31:22: post query
+2016-09-27 21:31:22: fetched array?
+2016-09-27 21:31:22: fname should be 1
+2016-09-27 21:31:22: USER FNAME QUERY: SELECT COUNT[*] FROM connections WHERE '1' IN (user1_id, user2_id) AND active = 'y';
+2016-09-27 21:31:22: post query
+2016-09-27 21:31:22: fetched array?
+2016-09-27 21:31:22: fname should be 
+2016-09-27 21:31:22: Code QUERY: SELECT code FROM users WHERE email = 'jackmail';
+2016-09-27 21:31:22: post query
+2016-09-27 21:31:22: fetched array?
+2016-09-27 21:31:22: code should be JACK
+2016-09-28 16:12:49: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-28 16:12:49: post query
+2016-09-28 16:12:49: fetched array?
+2016-09-28 16:12:49: fname should be Jack
+2016-09-28 16:13:29: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-28 16:13:29: post query
+2016-09-28 16:13:29: fetched array?
+2016-09-28 16:13:29: fname should be Jack
+2016-09-28 16:13:40: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-28 16:13:40: post query
+2016-09-28 16:13:40: fetched array?
+2016-09-28 16:13:40: fname should be Jack
+2016-09-28 16:19:27: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-28 16:19:27: post query
+2016-09-28 16:19:27: fetched array?
+2016-09-28 16:19:27: fname should be Jack
+2016-09-28 16:20:04: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-28 16:20:04: post query
+2016-09-28 16:20:04: fetched array?
+2016-09-28 16:20:04: fname should be Jack
+2016-09-28 16:23:24: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'jackmail';
+2016-09-28 16:23:24: post query
+2016-09-28 16:23:24: fetched array?
+2016-09-28 16:23:24: fname should be Jack
+2016-09-28 16:23:24: USER LNAME QUERY: SELECT lname FROM users WHERE email = 'jackmail';
+2016-09-28 16:23:24: post query
+2016-09-28 16:23:24: fetched array?
+2016-09-28 16:23:24: lname should be C
+2016-09-28 16:23:24: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'jackmail';
+2016-09-28 16:23:24: post query
+2016-09-28 16:23:24: fetched array?
+2016-09-28 16:23:24: fname should be 1
+2016-09-28 16:23:24: USER FNAME QUERY: SELECT COUNT[*] FROM taps WHERE sender_id = '1';
+2016-09-28 16:23:24: post query
+2016-09-28 16:23:24: fetched array?
+2016-09-28 16:23:24: fname should be 
+2016-09-28 16:23:24: USER FNAME QUERY: SELECT user_id FROM users WHERE email = 'jackmail';
+2016-09-28 16:23:24: post query
+2016-09-28 16:23:24: fetched array?
+2016-09-28 16:23:24: fname should be 1
+2016-09-28 16:23:24: USER FNAME QUERY: SELECT COUNT[*] FROM connections WHERE '1' IN (user1_id, user2_id) AND active = 'y';
+2016-09-28 16:23:24: post query
+2016-09-28 16:23:24: fetched array?
+2016-09-28 16:23:24: fname should be 
+2016-09-28 16:23:24: Code QUERY: SELECT code FROM users WHERE email = 'jackmail';
+2016-09-28 16:23:24: post query
+2016-09-28 16:23:24: fetched array?
+2016-09-28 16:23:24: code should be JACK
+2016-09-28 16:25:08: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-28 16:25:08: post query
+2016-09-28 16:25:08: fetched array?
+2016-09-28 16:25:08: fname should be Jack
+2016-09-28 16:26:55: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-28 16:26:55: post query
+2016-09-28 16:26:55: fetched array?
+2016-09-28 16:26:55: fname should be Jack
+2016-09-28 16:28:05: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-28 16:28:05: post query
+2016-09-28 16:28:05: fetched array?
+2016-09-28 16:28:05: fname should be Jack
+2016-09-28 16:29:03: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-28 16:29:03: post query
+2016-09-28 16:29:03: fetched array?
+2016-09-28 16:29:03: fname should be Jack
+2016-09-28 16:30:17: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-28 16:30:17: post query
+2016-09-28 16:30:17: fetched array?
+2016-09-28 16:30:17: fname should be Jack
+2016-09-28 16:30:21: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-28 16:30:21: post query
+2016-09-28 16:30:21: fetched array?
+2016-09-28 16:30:21: fname should be Jack
+2016-09-28 16:30:57: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-28 16:30:57: post query
+2016-09-28 16:30:57: fetched array?
+2016-09-28 16:30:57: fname should be Jack
+2016-09-28 16:31:45: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-28 16:31:45: post query
+2016-09-28 16:31:45: fetched array?
+2016-09-28 16:31:45: fname should be Jack
+2016-09-28 16:33:09: USER FNAME QUERY: SELECT fname FROM users WHERE email = 'Jackmail';
+2016-09-28 16:33:09: post query
+2016-09-28 16:33:09: fetched array?
+2016-09-28 16:33:09: fname should be Jack
