@@ -59,8 +59,38 @@ function get_user_code_from_user_email($user_email, $db_server){
     mylog("code should be $fname");
     return $fname;   
 }
+function get_user_email_from_user_id($user_id, $db_server){
+    $get_user_fname_query = "SELECT email FROM users WHERE id = '$user_id';";
+    //do all the query stuff here
+    mylog("Code QUERY: $get_user_fname_query");
+    $user_fname_result = mysqli_query($db_server, $get_user_fname_query);
+    if ($get_user_fname_query->connect_errno) {
+        echo "Failed to connect to MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
+    }
+    mylog("post query");
+    $row = mysqli_fetch_array($user_fname_result, MYSQLI_ASSOC);
+    mylog('fetched array?');
+    $fname = $row['email'];
+    mylog("code should be $fname");
+    return $fname;   
+}
 function get_user_id_from_user_email($user_email, $db_server){
     $get_user_fname_query = "SELECT user_id FROM users WHERE email = '$user_email';";
+    //do all the query stuff here
+    mylog("USER FNAME QUERY: $get_user_fname_query");
+    $user_fname_result = mysqli_query($db_server, $get_user_fname_query);
+    if ($get_user_fname_query->connect_errno) {
+        echo "Failed to connect to MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
+    }
+    mylog("post query");
+    $row = mysqli_fetch_array($user_fname_result, MYSQLI_ASSOC);
+    mylog('fetched array?');
+    $fname = $row['user_id'];
+    mylog("fname should be $fname");
+    return $fname;   
+}
+function get_user_id_from_user_code($user_code, $db_server){
+    $get_user_fname_query = "SELECT user_id FROM users WHERE code = '$user_code';";
     //do all the query stuff here
     mylog("USER FNAME QUERY: $get_user_fname_query");
     $user_fname_result = mysqli_query($db_server, $get_user_fname_query);
